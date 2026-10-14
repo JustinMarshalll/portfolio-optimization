@@ -1,0 +1,8 @@
+# Tested with Python 3.13 (pandas 3.0, numpy 2.5, scipy 1.18) and Python 3.10 (pandas 2.3, numpy 2.2, scipy 1.15)
+yfinance>=0.2.50
+pandas>=2.1
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+jupyter
+pytest
